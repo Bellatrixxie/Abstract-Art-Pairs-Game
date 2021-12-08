@@ -17,3 +17,10 @@ body {
     width: 415px;
     grid-gap: 5px;
   }
+
+  @media (max-width: 450px) {
+    .grid {
+      height: 415px;
+      width: 310px;
+    }
+  }

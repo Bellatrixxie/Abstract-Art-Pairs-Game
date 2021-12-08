@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: orange;
+    font-family: Raleway, Sans-serif;
+    margin-left: 20px;
+  }
+  
+  h1 {
+   font-size: 1.8em; 
+  }
+  
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 310px;
+    width: 415px;
+    grid-gap: 5px;
+  }
